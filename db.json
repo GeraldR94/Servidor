@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "username": "GeraldReve",
+      "id": 1
+    },
+    {
+      "username": "Geraldre",
+      "id": 2
+    },
+    {
+      "username": "Romulo59",
+      "id": 3
+    },
+    {
+      "username": "gggggg",
+      "id": 4
+    },
+    {
+      "username": "ssss",
+      "id": 5
+    },
+    {
+      "username": "hhh",
+      "id": 6
+    }
+  ],
+  "todos": [
+    {
+      "Text": "hola",
+      "user": "Romulo59",
+      "cheked": false,
+      "id": 1
+    },
+    {
+      "Text": "jugar",
+      "user": "Romulo59",
+      "cheked": false,
+      "id": 2
+    }
+  ]
+}
